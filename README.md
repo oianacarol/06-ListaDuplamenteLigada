@@ -14,3 +14,5 @@ Faça um **fork** deste repositório e realize as seguintes atividades:
 - [ ] Implemente a função excluirUltimoElemento
 - [ ] Implemente a função excluirPrimeiroElemento
 - [ ] Implemente a função exibirReverso
+
+Ana Caroline ana.amaral92fatec
